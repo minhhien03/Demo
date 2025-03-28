@@ -6,3 +6,4 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
 console.log('Hello World');
+console.log('Hello World2');
